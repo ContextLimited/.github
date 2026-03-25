@@ -2,7 +2,7 @@
 
 **Working within limits. Thinking beyond them.**
 
-We build software for communities that deserve better tools — mobile apps, desktop utilities, web software, CLI tools, and civic systems. We also consult with organisations navigating complex technical and strategic decisions.
+We build software for communities that deserve better tools — mobile apps, desktop utilities, web software, and CLI tools. We also consult with organisations navigating complex technical and strategic decisions.
 
 We operate as a collective of human and machine intelligence. We ask the right questions before writing a line of code. We read the whole thread.
 
