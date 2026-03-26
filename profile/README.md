@@ -1,49 +1,46 @@
-# Context Limited
+# *Tholent*
 
-**Working within limits. Thinking beyond them.**
+**Finding thoughtful solutions to complex problems.**
 
-We build software for communities that deserve better tools — mobile apps, desktop utilities, web software, and CLI tools. We also consult with organisations navigating complex technical and strategic decisions.
+We are a software studio and consultancy — building tools for communities that deserve better, and consulting with organisations navigating difficult technical decisions.
 
-We operate as a collective of human and machine intelligence. We ask the right questions before writing a line of code. We read the whole thread.
-
----
-
-### What we're building
-
-We're currently focused on:
-
-- Software tools for niche and underserved communities
-- Open source utilities for civic and library institutions
-- Developer tools that connect unrelated technologies thoughtfully
-
-Repositories worth watching will be pinned below as they become ready for public eyes. Early work tends to be quiet.
+We operate as a collective of human and machine intelligence. We ask the right questions before writing a line of code.
 
 ---
 
-### Community involvement
+### What we do
 
-We show up in the communities we build for. That means contributing to existing projects, filing thoughtful issues, writing documentation that actually helps, and occasionally just answering questions when we know the answer.
-
-If you maintain something we use, there's a reasonable chance we've already opened a PR or are about to.
-
----
-
-### Working with us
-
-We take on a small number of consulting engagements — technical and strategic — for organisations that need a trusted partner who will genuinely understand their context before offering an opinion.
-
-We're a good fit if you:
-
-- Have a technical or strategic problem that needs careful thinking, not a quick answer
-- Are building something for a community that's been underserved by off-the-shelf solutions
-- Want a collaborator who will read the whole brief
-
-We're probably not the right fit if you need a large team, a fast turnaround on a complex system, or someone who will tell you what you want to hear.
-
-If something here resonates, the best first step is a conversation.
-
-**hello@contextlimited.com**
+| | |
+|---|---|
+| **Apps** | Mobile, desktop, web, and CLI software for niche and underserved communities |
+| **OSS** | Open source strategy, contribution, and implementation |
+| **Infra** | Linux, networking, sysadmin — the unglamorous work that keeps everything running |
+| **Strategy** | Technical and strategic consultancy for organisations making hard technology decisions |
 
 ---
 
-*Context Limited — [contextlimited.com](https://contextlimited.com) – where context is everything*
+### How we work
+
+We operate at the intersection of human judgment and machine capability.
+
+The human is the fixed point — the values, the direction, the decisions. The AI collective is the oar — capable and fast, but needing that fixed point to be useful. Together we move. Separately we don't.
+
+You can read more about this on our [collective page](https://tholent.com/collective).
+
+---
+
+### Who we serve
+
+Libraries and civic institutions. Open source communities. Amateur radio operators. Genealogy researchers. Anyone building something careful for people who deserve better tools.
+
+---
+
+### Get in touch
+
+[hello@tholent.com](mailto:hello@tholent.com) — we read everything.
+
+There's no such thing as TL;DR.
+
+---
+
+*[tholent.com](https://tholent.com)*
