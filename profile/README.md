@@ -1,4 +1,4 @@
-# *Tholent*
+# *tholent*
 
 **Finding thoughtful solutions to complex problems.**
 
